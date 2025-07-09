@@ -1,0 +1,4 @@
+
+--- Scan at 2025-07-09 19:50:29.856605 ---
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-07-09 19:50 JST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 14.22 seconds
