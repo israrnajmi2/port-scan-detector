@@ -1,4 +1,14 @@
- ## 📁 Project Structure ``` port-scan-detector/ ├── scan_detector.py ✅ Main Python script ├── suspicious_hosts.txt ✅ Output: list of flagged IPs ├── logs/scan_log.txt ✅ Output: full scan log ├── config.json ✅ Settings (thresholds, network range) ├── README.md ✅ Project documentation └── requirements.txt ✅ Required packages ``` 
+## 📁 Project Structure
+
+```
+port-scan-detector/
+├── scan_detector.py         ✅ Main Python script
+├── suspicious_hosts.txt     ✅ Output: list of flagged IPs
+├── logs/scan_log.txt        ✅ Output: full scan log
+├── config.json              ✅ Settings (thresholds, network range)
+├── README.md                ✅ Project documentation
+└── requirements.txt         ✅ Required packages
+```
 
 # Port Scan Detector 🔍
 
